@@ -1,5 +1,4 @@
-#coding=utf-8
-#! python
+# -*- coding: utf-8 -*-
 
 import sys;
 import os;
@@ -8,6 +7,7 @@ import traceback
 
 
 dictMap = {}
+flag_gang = 0;
 
 charsetMap = {}
 
@@ -87,7 +87,7 @@ def handleFile(filePath):
                 
             else:
                 if isMatch:
-                    if ch in "-\'":
+                    if flag_gang == 1 and (ch in "-\'"):
                         out_str += ch;
                         isMatch = True
                         continue;
@@ -120,9 +120,10 @@ def handleFile(filePath):
 
 
 if __name__=='__main__':
-    if len(sys.argv)!=3:
-        print ('%s inputDir dictPath', sys.argv[0])
+    if len(sys.argv)!=4:
+        print ("%s inputDir dictPath 1或者0 表示是否保留连接符"%(sys.argv[0]))
     else:
+        flag_gang = int(sys.argv[3]);
         loadCharset(sys.argv[2])
         handleDir(sys.argv[1])
         
