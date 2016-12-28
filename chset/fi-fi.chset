@@ -1,0 +1,82 @@
+﻿#	Finnish alphabet
+#		Reference URL	http://www.thefullwiki.org/Finnish_language
+#								http://www.lc-star.com/WP2_deliverable_D2_v2.1.doc
+#	Format: each line has only one letter
+#
+# 2.1 Orthography
+# Characters of the entries of the lexicon belong to one of the following sets:
+# 
+# abcdefghijklmnopqrstuvxyzåäöšž
+# ABCDEFGHIJKLMNOPQRSTUVXYZÅÄÖŠŽ
+# 0123456789
+# For proper nouns also the following characters: éáüëôóØ
+# 
+# punctuation and special characters (hyphen “-”, plus “+”, apostrophe “’”, slash “/”, period “.”, parentheses “(“, “)”, underscore “_”, ampersand “&”.
+# 
+# Multi-token entries are glued together via an underscore (“_”) character or with hyphen (“-”) if the previous word ends with vowel with which the following one starts. Words ending in an apostrophe are treated as standalone entries.
+# 
+
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+å
+ä
+ö
+š
+ž
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Å
+Ä
+Ö
+Š
+Ž
+

@@ -1,0 +1,231 @@
+﻿# Arabic alphabet
+# 	https://en.wikipedia.org/wiki/Arabic_script_in_Unicode
+#	http://www.omniglot.com/writing/arabic.htm
+
+# Character table
+# 	https://en.wikipedia.org/wiki/Arabic_script_in_Unicode#Character_table
+ء	# Arabic Letter Hamza
+آ	# Arabic Letter Alef with madda above
+أ	# Arabic Letter Alef with hamza above
+ؤ	# Arabic Letter Waw with hamza above
+إ	# Arabic Letter Alef with hamza below
+ئ	# Arabic Letter Yeh with hamza above
+ا	# Arabic Letter Alef
+ب	# Arabic Letter Beh
+ة	# Arabic Letter Teh Marbuta
+ت	# Arabic Letter Teh
+ث	# Arabic Letter The
+ج	# Arabic Letter Jeem
+ح	# Arabic Letter Hah
+خ	# Arabic Letter Khah
+د	# Arabic Letter Dal
+ذ	# Arabic Letter Thal
+ر	# Arabic Letter Reh
+ز	# Arabic Letter Zay
+س	# Arabic Letter Seen
+ش	# Arabic Letter Sheen
+ص	# Arabic Letter Sad
+ض	# Arabic Letter Dad
+ط	# Arabic Letter Tah
+ظ	# Arabic Letter Zah
+ع	# Arabic Letter Ain
+غ	# Arabic Letter Ghain
+ف	# Arabic Letter Feh
+ق	# Arabic Letter Qaf
+ك	# Arabic Letter Kaf
+ل	# Arabic Letter Lam
+م	# Arabic Letter Meem
+ن	# Arabic Letter Noon
+ه	# Arabic Letter Heh
+و	# Arabic Letter Waw
+ى	# Arabic Letter Alef Maksura
+ي	# Arabic Letter Yeh
+ٮ	# Arabic Letter Dotless Beh
+ٯ	# Arabic Letter Dotless Qaf
+ٱ	# Arabic Letter Alef Wasla
+ٲ	# Arabic Letter Alef with wavy hamza above
+ٳ	# Arabic Letter Alef with wavy hamza below[4]
+ٴ	# Arabic Letter High Hamza
+ٵ	# Arabic Letter High Hamza Alef
+ٶ	# Arabic Letter High Hamza Waw
+ٷ	# Arabic Letter U with hamza above
+ٸ	# Arabic Letter High Hamza Yeh
+ٹ	# Arabic Letter Tteh
+ٺ	# Arabic Letter Tteheh
+ٻ	# Arabic Letter Beeh
+ټ	# Arabic Letter Teh with ring
+ٽ	# Arabic Letter Teh with three dots above downward
+ٿ	# Arabic Letter Teheh
+ڀ	# Arabic Letter Beheh
+ځ	# Arabic Letter Hah with hamza above
+ڂ	# Arabic Letter Hah with two dots vertical above
+ڃ	# Arabic Letter Nyeh
+ڄ	# Arabic Letter Dyeh
+څ	# Arabic Letter Hah with three dots above
+ڇ	# Arabic Letter Tcheheh
+ڈ	# Arabic Letter Ddal
+ډ	# Arabic Letter Dal with ring
+ڊ	# Arabic Letter Dal with dot below
+ڋ	# Arabic Letter Dal with dot below and small tah
+ڌ	# Arabic Letter Dahal
+ڏ	# Arabic Letter Dal with three dots above downward
+ڐ	# Arabic Letter Dal with four dots above
+ڒ	# Arabic Letter Reh with small V
+ړ	# Arabic Letter Reh with ring
+ڔ	# Arabic Letter Reh with dot below
+ڕ	# Arabic Letter Reh with small V below
+ږ	# Arabic Letter Reh with dot below and dot above
+ڗ	# Arabic Letter Reh with two dots above
+ژ	# Arabic Letter Jeh
+ڙ	# Arabic Letter Reh with four dots above
+ښ	# Arabic Letter Seen with dot below and dot above
+ڛ	# Arabic Letter Seen with three dots below
+ڜ	# Arabic Letter Seen with three dots below and three dots above
+ڝ	# Arabic Letter Sad with two dots below
+ڞ	# Arabic Letter Sad with three dots above
+ڟ	# Arabic Letter Tah with three dots above
+ڠ	# Arabic Letter Ain with three dots above
+ڡ	# Arabic Letter Dotless Feh
+ڢ	# Arabic Letter Feh with dot moved below
+ڣ	# Arabic Letter Feh with dot below
+ڥ	# Arabic Letter Feh with three dots below
+ڦ	# Arabic Letter Peheh
+ڧ	# Arabic Letter Qaf with dot above
+ڨ	# Arabic Letter Qaf with three dots above
+ک	# Arabic Letter Keheh
+ڪ	# Arabic Letter Swash Kaf
+ګ	# Arabic Letter Kaf with ring
+ڬ	# Arabic Letter Kaf with dot above
+ڭ	# Arabic Letter Ng
+ڮ	# Arabic Letter Kaf with three dots below
+ڰ	# Arabic Letter Gaf with ring
+ڱ	# Arabic Letter Ngoeh
+ڲ	# Arabic Letter Gaf with two dots below
+ڳ	# Arabic Letter Gueh
+ڴ	# Arabic Letter Gaf with three dots above
+ڵ	# Arabic Letter Lam with small V
+ڶ	# Arabic Letter Lam with dot above
+ڷ	# Arabic Letter Lam with three dots above
+ڸ	# Arabic Letter Lam with three dots below
+ڹ	# Arabic Letter Noon with dot below
+ں	# Arabic Letter Noon Ghunna
+ڻ	# Arabic Letter Rnoon
+ڼ	# Arabic Letter Noon with ring
+ڽ	# Arabic Letter Noon with three dots above
+ھ	# Arabic Letter Do chashmee heh
+ڿ	# Arabic Letter Tcheh with dot above
+ۀ	# Arabic Letter Heh with Yeh above
+ہ	# Arabic Letter Heh Goal
+ۂ	# Arabic Letter Heh Goal with hamza above
+ۃ	# Arabic Letter Teh Marbuta Goal
+ۄ	# Arabic Letter Waw with ring
+ۅ	# Arabic Letter Kirghiz Oe
+ۆ	# Arabic Letter Oe
+ۇ	# Arabic Letter U
+ۈ	# Arabic Letter Yu
+ۉ	# Arabic Letter Kirghiz Yu
+ۊ	# Arabic Letter Waw with two dots above
+ۋ	# Arabic Letter Ve
+ی	# Arabic Letter Farsi Yeh
+ۍ	# Arabic Letter Yeh with tail
+ێ	# Arabic Letter Yeh with small V
+ۏ	# Arabic Letter Waw with dot above
+ې	# Arabic Letter E
+ۑ	# Arabic Letter Yeh with three dots below
+ے	# Arabic Letter Yeh Barree
+ۓ	# Arabic Letter Yeh Barree with hamza above
+ە	# Arabic Letter Ae
+ۮ	# Arabic Letter Dal with inverted V
+ۯ	# Arabic Letter Reh with inverted V
+ۺ	# Arabic Letter Sheen with dot below
+ۻ	# Arabic Letter Dad with dot below
+ۼ	# Arabic Letter Ghain with dot below
+ۿ	# Arabic Letter Heh with inverted V
+
+
+# Punctuation symbol
+# ۔	Arabic Full Stop
+# ؀	Arabic Punctuation Sign
+# ؁	Arabic Sign Sanah
+# ؂	Arabic Footnote Marker
+# ؃	Arabic Sign Safah
+# ؋	Afghani Sign
+# ،	Arabic Comma
+# ؍	Arabic Date Separator
+# ؎	Arabic Poetic Verse Sign
+# ؏	Arabic Sign Misra
+#ؐ 	Arabic Sign Sallallahou Alayhe Wassallam
+#ؑ 	Arabic Sign Alayhe Assallam
+#ؒ 	Arabic Sign Rahmatullah Alayhe
+#ؓ 	Arabic Sign Radi Allahou Anhu
+#ؔ 	Arabic Sign Radi Takhallus
+#ؕ ؛	Arabic Semicolon
+#ؕ ؞	Arabic Triple Dot Punctuation Mark
+# ؟	Arabic Question Mark
+
+# ۰	Extended Arabic-Indic Digit Zero
+# ۱	Extended Arabic-Indic Digit One
+# ۲	Extended Arabic-Indic Digit Two
+# ۳	Extended Arabic-Indic Digit Three
+# ۴	Extended Arabic-Indic Digit Four
+# ۵	Extended Arabic-Indic Digit Five
+# ۶	Extended Arabic-Indic Digit Six
+# ۷	Extended Arabic-Indic Digit Seven
+# ۸	Extended Arabic-Indic Digit Eight
+# ۹	Extended Arabic-Indic Digit Nine
+# 
+
+# ـ	Arabic Tatweel
+
+#ٙ 	Arabic Zwarakay
+# ٠	Arabic-Indic Digit Zero
+# ١	Arabic-Indic Digit One
+# ٢	Arabic-Indic Digit Two
+# ٣	Arabic-Indic Digit Three
+# ٤	Arabic-Indic Digit Four
+# ٥	Arabic-Indic Digit Five
+# ٦	Arabic-Indic Digit Six
+# ٧	Arabic-Indic Digit Seven
+# ٨	Arabic-Indic Digit Eight
+# ٩	Arabic-Indic Digit Nine
+# ٪	Arabic Percent Sign
+# ٫	Arabic Decimal Separator
+# ٬	Arabic Thousands Separator
+# ٭	Arabic Five Pointed Star
+
+
+# Contextual forms
+# 	https://en.wikipedia.org/wiki/Arabic_script_in_Unicode#Contextual_forms
+#General_Unicode	Isolated	End	Middle	Beginnin	Name
+#			
+أ‎	أ‎	ـأ‎
+ب‎	ﺏ‎	ـب‎	ـبـ‎	بـ‎
+ت‎	ﺕ‎	ـت‎	ـتـ‎	تـ‎
+ث‎	ﺙ‎	ـث‎	ـثـ‎	ثـ‎
+ج‎	ﺝ‎	ـج‎	ـجـ‎	جـ‎
+ح‎	ﺡ‎	ـح‎	ـحـ‎	حـ‎
+خ‎	ﺥ‎	ـخ‎	ـخـ‎	خـ‎
+د‎	ﺩ‎	ـد‎
+ذ‎	ﺫ‎	ـذ‎
+ر‎	ﺭ‎	ـر‎
+ز‎	ﺯ‎	ـز‎
+س‎	ﺱ‎	ـس‎	ـسـ‎	سـ‎
+ش‎	ﺵ‎	ـش‎	ـشـ‎	شـ‎
+ص‎	ﺹ‎	ـص‎	ـصـ‎	صـ‎
+ض‎	ﺽ‎	ـض‎	ـضـ‎	ضـ‎
+ط‎	ﻁ‎	ـط‎	ـطـ‎	طـ‎
+ظ‎	ﻅ‎	ـظ‎	ـظـ‎	ظـ‎
+ع‎	ﻉ‎	ـع‎	ـعـ‎	عـ‎
+غ‎	ﻍ‎	ـغ‎	ـغـ‎	غـ‎
+ف‎	ف‎	ـف‎	ـفـ‎	فـ‎
+ق‎	ﻕ‎	ـق‎	ـقـ‎	قـ‎
+ك‎	ﻙ‎	ـك‎	ـكـ‎	كـ‎
+ل‎	ﻝ‎	ـل‎	ـلـ‎	لـ‎
+م‎	ﻡ‎	ـم‎	ـمـ‎	مـ‎
+ن‎	ن‎	ـن‎	ـنـ‎	نـ‎
+ﻫ‎	ﻩ‎	ـه‎	ـهـ‎	هـ‎
+و‎	ﻭ‎	ـو‎
+ي‎	ﻱ‎	ـي‎	ـيـ‎	يـ‎
+آ‎	ﺁ‎	ـآ‎
+ة‎	ﺓ‎	ـة‎
+ى‎	ﻯ‎	ـى‎

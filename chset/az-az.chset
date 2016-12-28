@@ -1,0 +1,43 @@
+#	Azerbaijani alphabet
+#	https://en.wikipedia.org/wiki/Azerbaijani_alphabet
+
+#	lowercase uppercase
+
+
+
+
+# vowel
+a	A
+e   E
+ə   Ə
+ı   I
+i   İ
+o   O
+ö   Ö
+u   U
+ü   Ü
+
+# consonant
+b   B
+c   C
+ç   Ç
+d   D
+f   F
+g   G
+ğ   Ğ
+h   H
+x   X
+j   J
+k   K
+q   Q
+l   L
+m   M
+n   N
+p   P
+r   R
+s   S
+ş   Ş
+t   T
+v   V
+y   Y
+z   Z

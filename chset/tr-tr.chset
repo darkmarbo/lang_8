@@ -1,0 +1,70 @@
+# Turkish Letter
+#		Reference:
+#		1. http://en.wikipedia.org/wiki/Turkish_alphabet
+#		2. http://www.omniglot.com/writing/turkish.htm
+#
+#	1、â是土耳其字母，虽然加“^”这个规定在15年前已经废除，但加“^”也不能算错；
+#	2、â的发音与a基本一样，只是更柔、更长一些；
+#	3、目前的土语词典中只有三个â的单词：âdet, hâla 和 kâr
+#
+A
+a
+B
+b
+C
+c
+Ç
+ç
+D
+d
+E
+e
+F
+f
+G
+g
+Ğ
+ğ
+H
+h
+I
+ı
+İ
+i
+J
+j
+K
+k
+L
+l
+M
+m
+N
+n
+O
+o
+Ö
+ö
+P
+p
+R
+r
+S
+s
+Ş
+ş
+T
+t
+U
+u
+Ü
+ü
+V
+v
+Y
+y
+Z
+z
+â
+î
+# û

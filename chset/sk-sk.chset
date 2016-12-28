@@ -1,0 +1,104 @@
+#	Sloval alphabet
+#	https://en.wikipedia.org/wiki/Slovak_orthography
+# 	http://www.slovak.com/language/alphabet/a_-_c/a_-_c.html
+#	
+# letter name
+#	uppercase lowercase
+
+# vowel
+#á
+A a
+#dlhé á
+Á á
+#prehlasované á; a s dvoma bodkami; široké e
+Ä ä
+#é
+E e
+#dlhé é
+É é
+#í
+I i
+#dlhé í
+Í í
+#o
+O o
+#ó
+Ó ó
+#ô
+Ô ô
+#u
+U u
+#dlhé ú
+Ú ú
+
+# consonant
+#bé
+B b
+#cé
+C c
+#čé
+Č č
+#dé
+D d
+#ďé
+Ď ď
+#dzé
+DZ dz
+#džé
+DŽ dž
+#ef
+F f
+#gé
+G g
+#há
+H h
+#chá
+CH ch
+#jé
+J j
+#ká
+K k
+#el
+L l
+#dlhé el
+Ĺ ĺ
+#mäkké el
+Ľ ľ
+#em
+M m
+#en
+N n
+#eň
+Ň ň
+#pé
+P p
+#kvé
+Q q
+#er
+R r
+#dlhé er
+Ŕ ŕ
+#es
+S s
+#eš
+Š š
+#té
+T t
+#mäkké té
+Ť ť
+#vé
+V v
+#dvojité vé
+W w
+#iks
+X x
+#ypsilon
+Y y
+#dlhý ypsilon
+Ý ý
+#zet
+Z z
+#žet
+Ž ž
+
+# 'q,w,x' see ref. " Kráľ, Ábel (1988). Pravidlá slovenskej výslovnosti. Bratislava: Slovenské pedagogické nakladateľstvo."

@@ -37,7 +37,7 @@ do
     echo "process $text_dir/$sub_dir ..."
 
     ### 1111 处理目录 将目录中的所有文件 断句
-    python handleCorpus.py $text_dir/$sub_dir $charset_list 
+    python handleCorpus.py $text_dir/$sub_dir $charset_list 0 
     rm -rf $out_dir/${sub_dir} && mkdir -p $out_dir/${sub_dir}
     mv $text_dir/$sub_dir/*.ok  $out_dir/$sub_dir/
     rm -rf $text_dir/$sub_dir/*.del
